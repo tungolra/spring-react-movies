@@ -17,7 +17,7 @@ export default function Header() {
             icon={faVideoSlash}
             style={{ marginRight: "10px" }}
           />
-          Gold
+          Movie Matters
         </NavBar.Brand>
         <NavBar.Toggle aria-controls="navbarScroll" />
         <NavBar.Collapse id="navbarScroll">
