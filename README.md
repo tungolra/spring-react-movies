@@ -28,6 +28,7 @@ Frontend
 - HTML5
 - JavaScript (ES6)
 - Axios
+- Node
 
 Backend
 - Spring Boot (3.0.2)
@@ -36,10 +37,13 @@ Backend
 - MongoDB
 
 API
-- The Movie Database API 
+- [The Movie Database API](https://www.themoviedb.org/)
 
 ### Contact
 
 - Ralph Tungol [rarttungol@gmail.com]()
 - Repo: [GitHub](https://github.com/tungolra/spring-react-movies)
 
+### Credits 
+- [Frontend](https://github.com/GavinLonDigital/movie-gold-v1/blob/master/src/components/reviewForm/ReviewForm.js)
+- [Backend](https://github.com/fhsinchy/movieist/blob/master/src/main/java/dev/farhan/movieist/movies/ReviewService.java)

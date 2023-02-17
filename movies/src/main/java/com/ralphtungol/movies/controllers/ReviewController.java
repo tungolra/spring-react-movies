@@ -1,9 +1,12 @@
-package com.ralphtungol.movies;
+package com.ralphtungol.movies.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import com.ralphtungol.movies.models.Review;
+import com.ralphtungol.movies.services.ReviewService;
 
 import java.util.Map;
 

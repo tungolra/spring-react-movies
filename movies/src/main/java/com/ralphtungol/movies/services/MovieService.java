@@ -1,8 +1,10 @@
-package com.ralphtungol.movies;
+package com.ralphtungol.movies.services;
 
-import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.ralphtungol.movies.models.Movie;
+import com.ralphtungol.movies.repositories.MovieRepository;
 
 import java.util.List;
 import java.util.Optional;
